@@ -1,2 +1,2 @@
-# k8s-config
-k8s config files for EKS training lab
+# k8-config
+EKS training lab
